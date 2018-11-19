@@ -23,7 +23,7 @@ Tips to save time
 
 "reinforcement learning can be so unstable that you need to repeat every run multiple times with different seeds to be confident."
 
-[Deep Reinforecement Learning Doesn't Work Yet] (https://www.alexirpan.com/2018/02/14/rl-hard.html). It is very sample inefficient currently
+[Deep Reinforecement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html). It is very sample inefficient currently
 
 
 
