@@ -25,5 +25,11 @@ Tips to save time
 
 [Deep Reinforecement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html). It is very sample inefficient currently
 
+11/20/2018
+Fast.ai International Fellowship
+
+Lecture 5 </br>
+Things to look into: cpa, Excel SGD, Pytorch lesson 2
+
 
 
