@@ -31,5 +31,21 @@ Fast.ai International Fellowship
 Lecture 5 </br>
 Things to look into: cpa, Excel SGD, Pytorch lesson 2
 
+11/22/2018
+
+### Learning about unity and creating photorealistic rendering
+
+[A State-of-the-Art Method for Generating Photo-Realistic Textures in Real Time](https://jobs.zalando.com/tech/blog/a-state-of-the-art-method-for-generating-photo-realistic-textures-in-real-time/?gh_src=4n3gxh1)
+
+[How to get Realistic Graphics in Unity](https://www.youtube.com/watch?v=-VR6C7m0KYA)
+
+Unity asset store </br>
+[ArchVizPRO Interior Vol.5](https://assetstore.unity.com/packages/3d/environments/archvizpro-interior-vol-5-93317) </br>
+[Unity Photorealism - ArchVizPro Vol.5 - Showcase Demo](https://www.youtube.com/watch?v=L1cYBGLbRi4)
+
+[Photoreal SketchUp to Unity: Part 3- Scene Lighting](https://www.youtube.com/watch?v=DR41M8hdHOU)
+
+
+
 
 
