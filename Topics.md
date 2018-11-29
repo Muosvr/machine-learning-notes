@@ -49,6 +49,12 @@ Unity asset store </br>
 11/29/2018
 
 ### Fast.ai part 1 v3 lesson 6
+Tp learn data preparation: Fastai's Machine Learning for Coders course
+
+* add_datepart
+* tabular data (Rossman)
+* Batch Norm
+
 
 
 
