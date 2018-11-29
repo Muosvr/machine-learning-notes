@@ -46,6 +46,12 @@ Unity asset store </br>
 [Photoreal SketchUp to Unity: Part 3- Scene Lighting](https://www.youtube.com/watch?v=DR41M8hdHOU)
 
 
+11/29/2018
+
+### Fast.ai part 1 v3 lesson 6
+
+
+
 
 
 
